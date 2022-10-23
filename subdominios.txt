@@ -1,0 +1,14 @@
+pre
+pro
+www
+ns1
+webmail
+smtp
+access
+admin
+ftp
+cpanel
+autoconfig
+ssh
+assets
+autodiscover
